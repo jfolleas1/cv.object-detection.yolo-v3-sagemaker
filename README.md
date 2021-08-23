@@ -1,4 +1,4 @@
-#### Acknowledgments
+#### Acknowledgment
 
 The code in this repository has been copied from the original repo : 
 https://github.com/sniper0110/YOLOv3 with minor modifications in the code.
